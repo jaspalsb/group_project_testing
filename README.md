@@ -23,5 +23,5 @@
 # Results from front end testing
 ![](results/front_testing_results.PNG)
 
-# Results from front end testing
+# Results from account testing
 ![](results/account_test_results.PNG)
