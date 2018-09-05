@@ -8,7 +8,7 @@
 * supertest
 * rewire
 
-**Front end testing tools**
+**Front-end testing tools**
 * mocha
 * chai
 * sinon
