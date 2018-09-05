@@ -1,4 +1,4 @@
-# Group 14 summer 2018 
+# Group 14 Summer 2018 
 ## Smart shopping application testing 
 
 **Integration testing tools**
